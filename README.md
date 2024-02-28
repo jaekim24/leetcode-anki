@@ -23,12 +23,15 @@ Here is a great video basically teaching you how to kind of use anki. It teaches
 
 # Using anki
 You can create or import a deck 
+
 ![Screenshot 2024-02-27 193046](https://github.com/jaekim24/leetcode-anki/assets/62858192/ff985657-c993-4670-8e07-521b87a44271)
 
 This is what the front looks like
+
 ![Screenshot 2024-02-27 193125](https://github.com/jaekim24/leetcode-anki/assets/62858192/892ba494-c49a-42f9-9c4c-44cc90e24d75)
 
 You can click show answer or press the space bar
+
 ![Screenshot 2024-02-27 193225](https://github.com/jaekim24/leetcode-anki/assets/62858192/5391ff49-d9e7-41e9-bb53-cae4f4b92d7b)
 
 
