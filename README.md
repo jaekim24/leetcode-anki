@@ -1,7 +1,7 @@
 # Leetcode Anki
-I wanted to be able to do leetcode on the go. There isn't really app for this so I found the next best thing using Anki. You can sync decks which is really easy with an account. 
+I wanted to leetcode on the go. Anki does have an app but cost money. You can still use the web browser version for free on your phone. You can sync decks which is really easy with an account. 
 
-Anki takes advantage of two studying techqiues spaced repeition and active recall.
+Anki takes advantage of two studying techqiues spaced repetition and active recall.
 
 # Video to make your own leetcode anki
 Here is a great video basically teaching you how to kind of use anki. It teaches you how to make decks and customize the cards and such. [link](https://www.youtube.com/watch?v=WInP22evPJE)
@@ -21,6 +21,18 @@ Here is a great video basically teaching you how to kind of use anki. It teaches
 		}
 		```
 
+# Using anki
+You can create or import a deck 
+
+![Screenshot 2024-02-27 193046](https://github.com/jaekim24/leetcode-anki/assets/62858192/ff985657-c993-4670-8e07-521b87a44271)
+
+This is what the front looks like
+
+![Screenshot 2024-02-27 193125](https://github.com/jaekim24/leetcode-anki/assets/62858192/892ba494-c49a-42f9-9c4c-44cc90e24d75)
+
+You can click show answer or press the space bar
+
+![Screenshot 2024-02-27 193225](https://github.com/jaekim24/leetcode-anki/assets/62858192/5391ff49-d9e7-41e9-bb53-cae4f4b92d7b)
 
 
 
