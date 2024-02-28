@@ -1,5 +1,5 @@
 # Leetcode Anki
-I wanted to be able to do leetcode on the go. There isn't really app for this so I found the next best thing using Anki. You can sync decks which is really easy with an account. 
+I wanted to leetcode on the go. Anki does have an app but cost money. You can still use the web browser version for free on your phone. You can sync decks which is really easy with an account. 
 
 Anki takes advantage of two studying techqiues spaced repetition and active recall.
 
