@@ -34,6 +34,10 @@ You can click show answer or press the space bar
 
 ![Screenshot 2024-02-27 193225](https://github.com/jaekim24/leetcode-anki/assets/62858192/5391ff49-d9e7-41e9-bb53-cae4f4b92d7b)
 
+# New spaced repetition algorithm: FSRS [link](https://github.com/open-spaced-repetition/fsrs4anki/wiki/Spaced-Repetition-Algorithm:-A-Three%E2%80%90Day-Journey-from-Novice-to-Expert)
+Free Spaced Repetition Scheduler
+
+
 # Another flashcard format ( I am going to give it a try )  [link](https://news.ycombinator.com/item?id=35517232)
 This is rsaneks flashcard format.
 This note type is stored under rsaneks_question_card_format. Copy and pasted from rsaneks post.
