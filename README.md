@@ -40,6 +40,9 @@ Free Spaced Repetition Scheduler
 
 # Another flashcard format ( I am going to give it a try )  [link](https://news.ycombinator.com/item?id=35517232)
 This is rsaneks flashcard format.
+
+More info [link](https://medium.com/@JarrettYe/how-did-i-publish-a-paper-in-acmkdd-as-an-undergraduate-c0199baddf31)
+
 This note type is stored under rsaneks_question_card_format. Copy and pasted from rsaneks post.
 
 For my job search process I created a custom note type specifically for interview problems. My general process was go to LeetCode, find a medium/hard problem, hack on it for 30-60 minutes, then look at the solution if I couldn't get there myself. At the end of the problem, regardless of if I solved it or not, I'd create an Anki card with the following fields:
